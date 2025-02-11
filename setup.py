@@ -29,7 +29,7 @@ setup(
     "langchain >= 0.3.3",
     "requests >= 2.32.3",
     "beautifulsoup4 >= 4.12.3",
-    "googlesearch-python >= 1.2.5"
+    "googlesearch-python >= 1.3.0"
     ],
 
     extras_require={
